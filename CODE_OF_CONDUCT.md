@@ -1,4 +1,4 @@
-# Code of Conduct
+# Code of Conducts
 
 The Node.js Examples Initiative is committed to upholding the Node.js Code of Conduct.
 
